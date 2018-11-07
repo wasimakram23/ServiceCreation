@@ -1,0 +1,1440 @@
+Mapping started at 11/2/2018 12:00:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 12:00:37 AM
+Mapping started at 11/2/2018 12:05:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 12:05:37 AM
+Mapping started at 11/2/2018 12:10:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 12:10:37 AM
+Mapping started at 11/2/2018 12:15:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 12:15:37 AM
+Mapping started at 11/2/2018 12:20:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 12:20:37 AM
+Mapping started at 11/2/2018 12:25:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 12:25:37 AM
+Mapping started at 11/2/2018 12:30:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 12:30:37 AM
+Mapping started at 11/2/2018 12:35:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 12:35:37 AM
+Mapping started at 11/2/2018 12:40:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 12:40:37 AM
+Mapping started at 11/2/2018 12:45:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 12:45:37 AM
+Mapping started at 11/2/2018 12:50:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 12:50:37 AM
+Mapping started at 11/2/2018 12:55:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 12:55:37 AM
+Mapping started at 11/2/2018 1:00:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 1:00:37 AM
+Mapping started at 11/2/2018 1:05:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 1:05:37 AM
+Mapping started at 11/2/2018 1:10:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 1:10:37 AM
+Mapping started at 11/2/2018 1:15:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 1:15:37 AM
+Mapping started at 11/2/2018 1:20:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 1:20:37 AM
+Mapping started at 11/2/2018 1:25:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 1:25:37 AM
+Mapping started at 11/2/2018 1:30:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 1:30:37 AM
+Mapping started at 11/2/2018 1:35:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 1:35:37 AM
+Mapping started at 11/2/2018 1:40:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 1:40:37 AM
+Mapping started at 11/2/2018 1:45:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 1:45:37 AM
+Mapping started at 11/2/2018 1:50:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 1:50:37 AM
+Mapping started at 11/2/2018 1:55:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 1:55:37 AM
+Mapping started at 11/2/2018 2:00:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 2:00:37 AM
+Mapping started at 11/2/2018 2:05:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 2:05:37 AM
+Mapping started at 11/2/2018 2:10:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 2:10:37 AM
+Mapping started at 11/2/2018 2:15:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 2:15:37 AM
+Mapping started at 11/2/2018 2:20:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 2:20:37 AM
+Mapping started at 11/2/2018 2:25:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 2:25:37 AM
+Mapping started at 11/2/2018 2:30:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 2:30:37 AM
+Mapping started at 11/2/2018 2:35:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 2:35:37 AM
+Mapping started at 11/2/2018 2:40:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 2:40:37 AM
+Mapping started at 11/2/2018 2:45:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 2:45:37 AM
+Mapping started at 11/2/2018 2:50:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 2:50:37 AM
+Mapping started at 11/2/2018 2:55:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 2:55:37 AM
+Mapping started at 11/2/2018 3:00:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 3:00:37 AM
+Mapping started at 11/2/2018 3:05:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 3:05:37 AM
+Mapping started at 11/2/2018 3:10:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 3:10:37 AM
+Mapping started at 11/2/2018 3:15:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 3:15:37 AM
+Mapping started at 11/2/2018 3:20:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 3:20:37 AM
+Mapping started at 11/2/2018 3:25:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 3:25:37 AM
+Mapping started at 11/2/2018 3:30:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 3:30:37 AM
+Mapping started at 11/2/2018 3:35:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 3:35:37 AM
+Mapping started at 11/2/2018 3:40:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 3:40:37 AM
+Mapping started at 11/2/2018 3:45:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 3:45:37 AM
+Mapping started at 11/2/2018 3:50:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 3:50:37 AM
+Mapping started at 11/2/2018 3:55:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 3:55:37 AM
+Mapping started at 11/2/2018 4:00:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 4:00:37 AM
+Mapping started at 11/2/2018 4:05:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 4:05:37 AM
+Mapping started at 11/2/2018 4:10:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 4:10:37 AM
+Mapping started at 11/2/2018 4:15:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 4:15:37 AM
+Mapping started at 11/2/2018 4:20:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 4:20:37 AM
+Mapping started at 11/2/2018 4:25:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 4:25:37 AM
+Mapping started at 11/2/2018 4:30:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 4:30:37 AM
+Mapping started at 11/2/2018 4:35:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 4:35:37 AM
+Mapping started at 11/2/2018 4:40:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 4:40:37 AM
+Mapping started at 11/2/2018 4:45:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 4:45:37 AM
+Mapping started at 11/2/2018 4:50:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 4:50:37 AM
+Mapping started at 11/2/2018 4:55:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 4:55:37 AM
+Mapping started at 11/2/2018 5:00:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 5:00:37 AM
+Mapping started at 11/2/2018 5:05:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 5:05:37 AM
+Mapping started at 11/2/2018 5:10:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 5:10:37 AM
+Mapping started at 11/2/2018 5:15:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 5:15:37 AM
+Mapping started at 11/2/2018 5:20:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 5:20:37 AM
+Mapping started at 11/2/2018 5:25:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 5:25:37 AM
+Mapping started at 11/2/2018 5:30:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 5:30:37 AM
+Mapping started at 11/2/2018 5:35:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 5:35:37 AM
+Mapping started at 11/2/2018 5:40:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 5:40:37 AM
+Mapping started at 11/2/2018 5:45:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 5:45:37 AM
+Mapping started at 11/2/2018 5:50:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 5:50:37 AM
+Mapping started at 11/2/2018 5:55:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 5:55:37 AM
+Mapping started at 11/2/2018 6:00:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 6:00:37 AM
+Mapping started at 11/2/2018 6:05:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 6:05:37 AM
+Mapping started at 11/2/2018 6:10:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 6:10:37 AM
+Mapping started at 11/2/2018 6:15:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 6:15:37 AM
+Mapping started at 11/2/2018 6:20:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 6:20:37 AM
+Mapping started at 11/2/2018 6:25:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 6:25:37 AM
+Mapping started at 11/2/2018 6:30:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 6:30:37 AM
+Mapping started at 11/2/2018 6:35:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 6:35:37 AM
+Mapping started at 11/2/2018 6:40:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 6:40:37 AM
+Mapping started at 11/2/2018 6:45:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 6:45:37 AM
+Mapping started at 11/2/2018 6:50:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 6:50:37 AM
+Mapping started at 11/2/2018 6:55:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 6:55:37 AM
+Mapping started at 11/2/2018 7:00:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 7:00:37 AM
+Mapping started at 11/2/2018 7:05:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 7:05:37 AM
+Mapping started at 11/2/2018 7:10:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 7:10:37 AM
+Mapping started at 11/2/2018 7:15:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 7:15:37 AM
+Mapping started at 11/2/2018 7:20:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 7:20:37 AM
+Mapping started at 11/2/2018 7:25:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 7:25:37 AM
+Mapping started at 11/2/2018 7:30:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 7:30:37 AM
+Mapping started at 11/2/2018 7:35:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 7:35:37 AM
+Mapping started at 11/2/2018 7:40:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 7:40:37 AM
+Mapping started at 11/2/2018 7:45:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 7:45:37 AM
+Mapping started at 11/2/2018 7:50:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 7:50:37 AM
+Mapping started at 11/2/2018 7:55:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 7:55:37 AM
+Mapping started at 11/2/2018 8:00:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 8:00:37 AM
+Mapping started at 11/2/2018 8:05:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 8:05:37 AM
+Mapping started at 11/2/2018 8:10:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 8:10:37 AM
+Mapping started at 11/2/2018 8:15:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 8:15:37 AM
+Mapping started at 11/2/2018 8:20:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 8:20:37 AM
+Mapping started at 11/2/2018 8:25:37 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 8:25:37 AM
+Mapping started at 11/2/2018 8:30:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 8:30:38 AM
+Mapping started at 11/2/2018 8:35:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 8:35:38 AM
+Mapping started at 11/2/2018 8:40:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 8:40:38 AM
+Mapping started at 11/2/2018 8:45:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 8:45:38 AM
+Mapping started at 11/2/2018 8:50:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 8:50:38 AM
+Mapping started at 11/2/2018 8:55:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 8:55:38 AM
+Mapping started at 11/2/2018 9:00:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 9:00:38 AM
+Mapping started at 11/2/2018 9:05:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 9:05:38 AM
+Mapping started at 11/2/2018 9:10:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 9:10:38 AM
+Mapping started at 11/2/2018 9:15:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 9:15:38 AM
+Mapping started at 11/2/2018 9:20:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 9:20:38 AM
+Mapping started at 11/2/2018 9:25:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 9:25:38 AM
+Mapping started at 11/2/2018 9:30:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 9:30:38 AM
+Mapping started at 11/2/2018 9:35:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 9:35:38 AM
+Mapping started at 11/2/2018 9:40:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 9:40:38 AM
+Mapping started at 11/2/2018 9:45:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 9:45:38 AM
+Mapping started at 11/2/2018 9:50:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 9:50:38 AM
+Mapping started at 11/2/2018 9:55:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 9:55:38 AM
+Mapping started at 11/2/2018 10:00:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 10:00:38 AM
+Mapping started at 11/2/2018 10:05:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 10:05:38 AM
+Mapping started at 11/2/2018 10:10:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 10:10:38 AM
+Mapping started at 11/2/2018 10:15:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 10:15:38 AM
+Mapping started at 11/2/2018 10:20:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 10:20:38 AM
+Mapping started at 11/2/2018 10:25:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 10:25:38 AM
+Mapping started at 11/2/2018 10:30:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 10:30:38 AM
+Mapping started at 11/2/2018 10:35:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 10:35:38 AM
+Mapping started at 11/2/2018 10:40:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 10:40:38 AM
+Mapping started at 11/2/2018 10:45:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 10:45:38 AM
+Mapping started at 11/2/2018 10:50:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 10:50:38 AM
+Mapping started at 11/2/2018 10:55:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 10:55:38 AM
+Mapping started at 11/2/2018 11:00:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 11:00:38 AM
+Mapping started at 11/2/2018 11:05:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 11:05:38 AM
+Mapping started at 11/2/2018 11:10:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 11:10:38 AM
+Mapping started at 11/2/2018 11:15:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 11:15:38 AM
+Mapping started at 11/2/2018 11:20:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 11:20:38 AM
+Mapping started at 11/2/2018 11:25:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 11:25:38 AM
+Mapping started at 11/2/2018 11:30:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 11:30:38 AM
+Mapping started at 11/2/2018 11:35:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 11:35:38 AM
+Mapping started at 11/2/2018 11:40:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 11:40:38 AM
+Mapping started at 11/2/2018 11:45:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 11:45:38 AM
+Mapping started at 11/2/2018 11:50:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 11:50:38 AM
+Mapping started at 11/2/2018 11:55:38 AM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 11:55:38 AM
+Mapping started at 11/2/2018 12:00:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 12:00:38 PM
+Mapping started at 11/2/2018 12:05:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 12:05:38 PM
+Mapping started at 11/2/2018 12:10:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 12:10:38 PM
+Mapping started at 11/2/2018 12:15:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 12:15:38 PM
+Mapping started at 11/2/2018 12:20:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 12:20:38 PM
+Mapping started at 11/2/2018 12:25:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 12:25:38 PM
+Mapping started at 11/2/2018 12:30:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 12:30:38 PM
+Mapping started at 11/2/2018 12:35:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 12:35:38 PM
+Mapping started at 11/2/2018 12:40:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 12:40:38 PM
+Mapping started at 11/2/2018 12:45:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 12:45:38 PM
+Mapping started at 11/2/2018 12:50:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 12:50:38 PM
+Mapping started at 11/2/2018 12:55:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 12:55:38 PM
+Mapping started at 11/2/2018 1:00:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 1:00:38 PM
+Mapping started at 11/2/2018 1:05:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 1:05:38 PM
+Mapping started at 11/2/2018 1:10:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 1:10:38 PM
+Mapping started at 11/2/2018 1:15:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 1:15:38 PM
+Mapping started at 11/2/2018 1:20:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 1:20:38 PM
+Mapping started at 11/2/2018 1:25:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 1:25:38 PM
+Mapping started at 11/2/2018 1:30:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 1:30:38 PM
+Mapping started at 11/2/2018 1:35:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 1:35:38 PM
+Mapping started at 11/2/2018 1:40:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 1:40:38 PM
+Mapping started at 11/2/2018 1:45:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 1:45:38 PM
+Mapping started at 11/2/2018 1:50:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 1:50:38 PM
+Mapping started at 11/2/2018 1:55:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 1:55:38 PM
+Mapping started at 11/2/2018 2:00:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 2:00:38 PM
+Mapping started at 11/2/2018 2:05:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 2:05:38 PM
+Mapping started at 11/2/2018 2:10:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 2:10:38 PM
+Mapping started at 11/2/2018 2:15:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 2:15:38 PM
+Mapping started at 11/2/2018 2:20:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 2:20:38 PM
+Mapping started at 11/2/2018 2:25:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 2:25:38 PM
+Mapping started at 11/2/2018 2:30:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 2:30:38 PM
+Mapping started at 11/2/2018 2:35:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 2:35:38 PM
+Mapping started at 11/2/2018 2:40:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 2:40:38 PM
+Mapping started at 11/2/2018 2:45:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 2:45:38 PM
+Mapping started at 11/2/2018 2:50:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 2:50:38 PM
+Mapping started at 11/2/2018 2:55:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 2:55:38 PM
+Mapping started at 11/2/2018 3:00:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 3:00:38 PM
+Mapping started at 11/2/2018 3:05:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 3:05:38 PM
+Mapping started at 11/2/2018 3:10:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 3:10:38 PM
+Mapping started at 11/2/2018 3:15:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 3:15:38 PM
+Mapping started at 11/2/2018 3:20:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 3:20:38 PM
+Mapping started at 11/2/2018 3:25:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 3:25:38 PM
+Mapping started at 11/2/2018 3:30:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 3:30:38 PM
+Mapping started at 11/2/2018 3:35:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 3:35:38 PM
+Mapping started at 11/2/2018 3:40:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 3:40:38 PM
+Mapping started at 11/2/2018 3:45:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 3:45:38 PM
+Mapping started at 11/2/2018 3:50:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 3:50:38 PM
+Mapping started at 11/2/2018 3:55:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 3:55:38 PM
+Mapping started at 11/2/2018 4:00:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 4:00:38 PM
+Mapping started at 11/2/2018 4:05:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 4:05:38 PM
+Mapping started at 11/2/2018 4:10:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 4:10:38 PM
+Mapping started at 11/2/2018 4:15:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 4:15:38 PM
+Mapping started at 11/2/2018 4:20:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 4:20:38 PM
+Mapping started at 11/2/2018 4:25:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 4:25:38 PM
+Mapping started at 11/2/2018 4:30:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 4:30:38 PM
+Mapping started at 11/2/2018 4:35:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 4:35:38 PM
+Mapping started at 11/2/2018 4:40:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 4:40:38 PM
+Mapping started at 11/2/2018 4:45:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 4:45:38 PM
+Mapping started at 11/2/2018 4:50:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 4:50:38 PM
+Mapping started at 11/2/2018 4:55:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 4:55:38 PM
+Mapping started at 11/2/2018 5:00:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 5:00:38 PM
+Mapping started at 11/2/2018 5:05:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 5:05:38 PM
+Mapping started at 11/2/2018 5:10:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 5:10:38 PM
+Mapping started at 11/2/2018 5:15:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 5:15:38 PM
+Mapping started at 11/2/2018 5:20:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 5:20:38 PM
+Mapping started at 11/2/2018 5:25:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 5:25:38 PM
+Mapping started at 11/2/2018 5:30:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 5:30:38 PM
+Mapping started at 11/2/2018 5:35:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 5:35:38 PM
+Mapping started at 11/2/2018 5:40:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 5:40:38 PM
+Mapping started at 11/2/2018 5:45:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 5:45:38 PM
+Mapping started at 11/2/2018 5:50:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 5:50:38 PM
+Mapping started at 11/2/2018 5:55:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 5:55:38 PM
+Mapping started at 11/2/2018 6:00:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 6:00:38 PM
+Mapping started at 11/2/2018 6:05:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 6:05:38 PM
+Mapping started at 11/2/2018 6:10:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 6:10:38 PM
+Mapping started at 11/2/2018 6:15:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 6:15:38 PM
+Mapping started at 11/2/2018 6:20:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 6:20:38 PM
+Mapping started at 11/2/2018 6:25:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 6:25:38 PM
+Mapping started at 11/2/2018 6:30:38 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 6:30:38 PM
+Mapping started at 11/2/2018 6:35:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 6:35:39 PM
+Mapping started at 11/2/2018 6:40:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 6:40:39 PM
+Mapping started at 11/2/2018 6:45:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 6:45:39 PM
+Mapping started at 11/2/2018 6:50:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 6:50:39 PM
+Mapping started at 11/2/2018 6:55:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 6:55:39 PM
+Mapping started at 11/2/2018 7:00:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 7:00:39 PM
+Mapping started at 11/2/2018 7:05:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 7:05:39 PM
+Mapping started at 11/2/2018 7:10:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 7:10:39 PM
+Mapping started at 11/2/2018 7:15:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 7:15:39 PM
+Mapping started at 11/2/2018 7:20:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 7:20:39 PM
+Mapping started at 11/2/2018 7:25:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 7:25:39 PM
+Mapping started at 11/2/2018 7:30:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 7:30:39 PM
+Mapping started at 11/2/2018 7:35:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 7:35:39 PM
+Mapping started at 11/2/2018 7:40:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 7:40:39 PM
+Mapping started at 11/2/2018 7:45:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 7:45:39 PM
+Mapping started at 11/2/2018 7:50:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 7:50:39 PM
+Mapping started at 11/2/2018 7:55:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 7:55:39 PM
+Mapping started at 11/2/2018 8:00:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 8:00:39 PM
+Mapping started at 11/2/2018 8:05:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 8:05:39 PM
+Mapping started at 11/2/2018 8:10:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 8:10:39 PM
+Mapping started at 11/2/2018 8:15:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 8:15:39 PM
+Mapping started at 11/2/2018 8:20:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 8:20:39 PM
+Mapping started at 11/2/2018 8:25:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 8:25:39 PM
+Mapping started at 11/2/2018 8:30:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 8:30:39 PM
+Mapping started at 11/2/2018 8:35:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 8:35:39 PM
+Mapping started at 11/2/2018 8:40:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 8:40:39 PM
+Mapping started at 11/2/2018 8:45:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 8:45:39 PM
+Mapping started at 11/2/2018 8:50:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 8:50:39 PM
+Mapping started at 11/2/2018 8:55:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 8:55:39 PM
+Mapping started at 11/2/2018 9:00:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 9:00:39 PM
+Mapping started at 11/2/2018 9:05:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 9:05:39 PM
+Mapping started at 11/2/2018 9:10:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 9:10:39 PM
+Mapping started at 11/2/2018 9:15:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 9:15:39 PM
+Mapping started at 11/2/2018 9:20:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 9:20:39 PM
+Mapping started at 11/2/2018 9:25:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 9:25:39 PM
+Mapping started at 11/2/2018 9:30:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 9:30:39 PM
+Mapping started at 11/2/2018 9:35:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 9:35:39 PM
+Mapping started at 11/2/2018 9:40:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 9:40:39 PM
+Mapping started at 11/2/2018 9:45:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 9:45:39 PM
+Mapping started at 11/2/2018 9:50:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 9:50:39 PM
+Mapping started at 11/2/2018 9:55:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 9:55:39 PM
+Mapping started at 11/2/2018 10:00:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 10:00:39 PM
+Mapping started at 11/2/2018 10:05:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 10:05:39 PM
+Mapping started at 11/2/2018 10:10:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 10:10:39 PM
+Mapping started at 11/2/2018 10:15:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 10:15:39 PM
+Mapping started at 11/2/2018 10:20:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 10:20:39 PM
+Mapping started at 11/2/2018 10:25:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 10:25:39 PM
+Mapping started at 11/2/2018 10:30:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 10:30:39 PM
+Mapping started at 11/2/2018 10:35:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 10:35:39 PM
+Mapping started at 11/2/2018 10:40:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 10:40:39 PM
+Mapping started at 11/2/2018 10:45:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 10:45:39 PM
+Mapping started at 11/2/2018 10:50:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 10:50:39 PM
+Mapping started at 11/2/2018 10:55:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 10:55:39 PM
+Mapping started at 11/2/2018 11:00:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 11:00:39 PM
+Mapping started at 11/2/2018 11:05:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 11:05:39 PM
+Mapping started at 11/2/2018 11:10:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 11:10:39 PM
+Mapping started at 11/2/2018 11:15:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 11:15:39 PM
+Mapping started at 11/2/2018 11:20:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 11:20:39 PM
+Mapping started at 11/2/2018 11:25:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 11:25:39 PM
+Mapping started at 11/2/2018 11:30:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 11:30:39 PM
+Mapping started at 11/2/2018 11:35:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 11:35:39 PM
+Mapping started at 11/2/2018 11:40:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 11:40:39 PM
+Mapping started at 11/2/2018 11:45:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 11:45:39 PM
+Mapping started at 11/2/2018 11:50:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 11:50:39 PM
+Mapping started at 11/2/2018 11:55:39 PM
+Groups table updated
+Mapping table updated
+User table updated
+Mapping Completed at 11/2/2018 11:55:39 PM

@@ -1,0 +1,51 @@
+﻿Installing assembly 'E:\Wasim\TestProject\GroupMapping\GroupMapping\bin\Debug\GroupMapping.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Wasim\TestProject\GroupMapping\GroupMapping\bin\Debug\GroupMapping.InstallLog
+   assemblypath = E:\Wasim\TestProject\GroupMapping\GroupMapping\bin\Debug\GroupMapping.exe
+Installing service GroupMapping...
+Service GroupMapping has been successfully installed.
+Creating EventLog source GroupMapping in log Application...
+Committing assembly 'E:\Wasim\TestProject\GroupMapping\GroupMapping\bin\Debug\GroupMapping.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Wasim\TestProject\GroupMapping\GroupMapping\bin\Debug\GroupMapping.InstallLog
+   assemblypath = E:\Wasim\TestProject\GroupMapping\GroupMapping\bin\Debug\GroupMapping.exe
+Uninstalling assembly 'E:\Wasim\TestProject\GroupMapping\GroupMapping\bin\Debug\GroupMapping.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Wasim\TestProject\GroupMapping\GroupMapping\bin\Debug\GroupMapping.InstallLog
+   assemblypath = E:\Wasim\TestProject\GroupMapping\GroupMapping\bin\Debug\GroupMapping.exe
+Removing EventLog source GroupMapping.
+Service GroupMapping is being removed from the system...
+Service GroupMapping was successfully removed from the system.
+Installing assembly 'E:\Wasim\TestProject\GroupMapping\GroupMapping\bin\Debug\GroupMapping.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Wasim\TestProject\GroupMapping\GroupMapping\bin\Debug\GroupMapping.InstallLog
+   assemblypath = E:\Wasim\TestProject\GroupMapping\GroupMapping\bin\Debug\GroupMapping.exe
+Installing service GroupMapping...
+Service GroupMapping has been successfully installed.
+Creating EventLog source GroupMapping in log Application...
+Committing assembly 'E:\Wasim\TestProject\GroupMapping\GroupMapping\bin\Debug\GroupMapping.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Wasim\TestProject\GroupMapping\GroupMapping\bin\Debug\GroupMapping.InstallLog
+   assemblypath = E:\Wasim\TestProject\GroupMapping\GroupMapping\bin\Debug\GroupMapping.exe
+Uninstalling assembly 'E:\Wasim\TestProject\GroupMapping\GroupMapping\bin\Debug\GroupMapping.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Wasim\TestProject\GroupMapping\GroupMapping\bin\Debug\GroupMapping.exe
+   logfile = E:\Wasim\TestProject\GroupMapping\GroupMapping\bin\Debug\GroupMapping.InstallLog
+Removing EventLog source GroupMapping.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'E:\Wasim\TestProject\GroupMapping\GroupMapping\bin\Debug\GroupMapping.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Wasim\TestProject\GroupMapping\GroupMapping\bin\Debug\GroupMapping.exe
+   logfile = E:\Wasim\TestProject\GroupMapping\GroupMapping\bin\Debug\GroupMapping.InstallLog
+Removing EventLog source GroupMapping.
+Service GroupMapping is being removed from the system...
+Service GroupMapping was successfully removed from the system.

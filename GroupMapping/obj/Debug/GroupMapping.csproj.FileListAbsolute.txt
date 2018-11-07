@@ -1,0 +1,9 @@
+E:\Wasim\TestProject\GroupMapping\GroupMapping\bin\Debug\GroupMapping.exe.config
+E:\Wasim\TestProject\GroupMapping\GroupMapping\bin\Debug\GroupMapping.exe
+E:\Wasim\TestProject\GroupMapping\GroupMapping\bin\Debug\GroupMapping.pdb
+E:\Wasim\TestProject\GroupMapping\GroupMapping\obj\Debug\GroupMapping.ProjectInstaller.resources
+E:\Wasim\TestProject\GroupMapping\GroupMapping\obj\Debug\GroupMapping.csproj.GenerateResource.Cache
+E:\Wasim\TestProject\GroupMapping\GroupMapping\obj\Debug\GroupMapping.exe
+E:\Wasim\TestProject\GroupMapping\GroupMapping\obj\Debug\GroupMapping.pdb
+E:\Wasim\TestProject\GroupMapping\GroupMapping\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Wasim\TestProject\GroupMapping\GroupMapping\obj\Debug\GroupMapping.csprojResolveAssemblyReference.cache
